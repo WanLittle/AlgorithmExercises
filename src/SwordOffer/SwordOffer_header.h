@@ -38,7 +38,7 @@
 #include "S_36.h"
 #include "S_37.h"
 #include "S_38.h"
-#include "S_39.h"
+#include "S_39_MoreThanHalfNum.h" // 数组中出现次数超过一半的数字
 #include "S_39_2.h"
 #include "S_40_GetKLeastNumbers.h" // 最小的K个数
 #include "S_41.h"
