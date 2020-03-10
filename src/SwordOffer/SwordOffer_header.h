@@ -10,6 +10,7 @@
 #include "S_8.h"
 #include "S_9.h"
 #include "S_10_Fibonacci.h" //斐波那契数列
+#include "S_10_JumpFloor.h" // 青蛙跳台阶
 #include "S_11.h"
 #include "S_12.h"
 #include "S_13.h"
