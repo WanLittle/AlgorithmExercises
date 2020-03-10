@@ -22,7 +22,7 @@
 #include "S_20.h"
 #include "S_21.h"
 #include "S_22_FindKthOfList.h" // 链表中倒数第K个节点
-#include "S_23.h"
+#include "S_23_EntryNodeOfLoopList.h" // 链表中环的入□节点
 #include "S_24_ReverseList.h" // 反转链表
 #include "S_25.h"
 #include "S_26.h"
