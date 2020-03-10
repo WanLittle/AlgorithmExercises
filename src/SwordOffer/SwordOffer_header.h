@@ -54,7 +54,7 @@
 #include "S_51.h"
 #include "S_52.h"
 #include "S_53.h"
-#include "S_54.h"
+#include "S_54_KthNode.h" // 二叉搜索树的第k大节点
 #include "S_55_TreeDepth.h" // 二叉树的深度
 #include "S_56.h"
 #include "S_57.h"

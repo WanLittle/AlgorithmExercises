@@ -1,14 +1,20 @@
 #pragma once
 #include "../BASE.h"
 
-#include "TreeNode.h"
-
-class S_54 : public BASE {
+// 二叉搜索树的第k大节点
+class S_54_KthNode : public BASE {
 public:
 	virtual void main()
 	{
 
 	}
+    struct TreeNode
+    {
+        int val;
+        struct TreeNode *left;
+        struct TreeNode *right;
+        TreeNode(int x) : val(x), left(NULL), right(NULL) { }
+    };
 	TreeNode* KthNode(TreeNode* pRoot, int k)
 	{
 		return KthNodeCore(pRoot, k);
