@@ -40,7 +40,7 @@
 #include "S_38.h"
 #include "S_39.h"
 #include "S_39_2.h"
-#include "S_40.h"
+#include "S_40.h" // 最小的K个数
 #include "S_41.h"
 #include "S_42.h"
 #include "S_42_2.h"
