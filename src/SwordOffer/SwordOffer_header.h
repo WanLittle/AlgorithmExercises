@@ -40,7 +40,7 @@
 #include "S_38.h"
 #include "S_39.h"
 #include "S_39_2.h"
-#include "S_40.h" // 最小的K个数
+#include "S_40_GetKLeastNumbers.h" // 最小的K个数
 #include "S_41.h"
 #include "S_42.h"
 #include "S_42_2.h"
@@ -50,7 +50,7 @@
 #include "S_46.h"
 #include "S_47.h"
 #include "S_48.h"
-#include "S_49.h"
+#include "S_49_GetUglyNumber.h" // 丑数
 #include "S_50.h"
 #include "S_51.h"
 #include "S_52.h"

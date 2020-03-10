@@ -40,7 +40,7 @@ public:
     }
 
     // ≈≈–Ú
-    vector<int> GetLeastNumbers_Solution(vector<int> input, int k)
+    vector<int> GetLeastNumbers_Solution_2(vector<int> input, int k)
     {
         vector<int> result;
         if (input.size() < k)
