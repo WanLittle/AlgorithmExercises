@@ -39,7 +39,6 @@
 #include "S_37.h"
 #include "S_38.h"
 #include "S_39_MoreThanHalfNum.h" // 数组中出现次数超过一半的数字
-#include "S_39_2.h"
 #include "S_40_GetKLeastNumbers.h" // 最小的K个数
 #include "S_41.h"
 #include "S_42.h"
@@ -56,7 +55,7 @@
 #include "S_52.h"
 #include "S_53.h"
 #include "S_54.h"
-#include "S_55.h"
+#include "S_55_TreeDepth.h" // 二叉树的深度
 #include "S_56.h"
 #include "S_57.h"
 #include "S_57_2.h"
