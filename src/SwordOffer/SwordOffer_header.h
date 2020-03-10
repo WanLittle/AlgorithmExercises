@@ -14,7 +14,7 @@
 #include "S_12.h"
 #include "S_13.h"
 #include "S_14.h"
-#include "S_15.h"
+#include "S_15_CountBitOne.h" //:二进制中1的个数
 #include "S_16.h"
 #include "S_17.h"
 #include "S_18.h"
