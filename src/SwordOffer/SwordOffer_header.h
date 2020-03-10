@@ -5,7 +5,7 @@
 #include "S_3.h"
 #include "S_4.h"
 #include "S_5.h"
-#include "S_6.h"
+#include "S_6_RevesePrintList.h" //从尾到头打印链表
 #include "S_7.h"
 #include "S_8.h"
 #include "S_9.h"
