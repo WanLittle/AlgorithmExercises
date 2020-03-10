@@ -14,7 +14,7 @@
 #include "S_12.h"
 #include "S_13.h"
 #include "S_14.h"
-#include "S_15_CountBitOne.h" //:二进制中1的个数
+#include "S_15_CountBitOne.h" //二进制中1的个数
 #include "S_16.h"
 #include "S_17.h"
 #include "S_18.h"
@@ -23,7 +23,7 @@
 #include "S_21.h"
 #include "S_22.h"
 #include "S_23.h"
-#include "S_24.h"
+#include "S_24_ReverseList.h" // 反转链表
 #include "S_25.h"
 #include "S_26.h"
 #include "S_27.h"
