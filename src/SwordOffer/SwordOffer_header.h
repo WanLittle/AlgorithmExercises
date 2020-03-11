@@ -60,7 +60,7 @@
 #include "S_56.h"
 #include "S_57.h"
 #include "S_57_2.h"
-#include "S_58.h"
+#include "S_58_ReverseSentence.h" // ·­×ªµ¥´ÊË³Ðò
 #include "S_59.h"
 #include "S_60.h"
 #include "S_61.h"

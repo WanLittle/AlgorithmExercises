@@ -24,6 +24,5 @@ public:
         pRoot->right = t;
         Mirror(pRoot->left);
         Mirror(pRoot->right);
-        std::fmin
     }
 };
