@@ -21,17 +21,17 @@
 #include "S_18.h"
 #include "S_19.h"
 #include "S_20.h"
-#include "S_21.h"
+#include "S_21_ReOrderArray.h" //调整数组顺序使奇数位于偶数前面  
 #include "S_22_FindKthOfList.h" // 链表中倒数第K个节点
 #include "S_23_EntryNodeOfLoopList.h" // 链表中环的入□节点
 #include "S_24_ReverseList.h" // 反转链表
-#include "S_25.h"
-#include "S_26.h"
-#include "S_27.h"
+#include "S_25_MergeList.h" // 合并两个排序的链表  
+#include "S_26_HasSubtree.h" // 树的子结构
+#include "S_27_MirrorBinTree.h" // 二叉树的镜像
 #include "S_28.h"
 #include "S_29.h"
 #include "S_30.h"
-#include "S_31.h"
+#include "S_31_IsStackPopOrder.h" // 栈的压入、弹出序列
 #include "S_32.h"
 #include "S_33.h"
 #include "S_34.h"

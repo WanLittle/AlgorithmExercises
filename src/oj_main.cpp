@@ -12,6 +12,9 @@
 #include <unordered_set>
 using namespace std;
 
+const float EPSINON = 0.00001;
+inline float feuqal(float n1, float n2) { return std::abs(n1 - n2) > EPSINON; }
+
 int main2(void)
 {
     int N;
