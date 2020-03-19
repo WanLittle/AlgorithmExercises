@@ -17,7 +17,7 @@
 #include "S_14.h"
 #include "S_15_CountBitOne.h" //二进制中1的个数
 #include "S_16_MyPow.h"
-#include "S_17.h"
+#include "S_18_DeleteListNode.h" // 删除链表的节点
 #include "S_18.h"
 #include "S_19.h"
 #include "S_20.h"
