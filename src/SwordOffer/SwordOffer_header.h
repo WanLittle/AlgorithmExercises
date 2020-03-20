@@ -41,7 +41,7 @@
 #include "S_38.h"
 #include "S_39_MoreThanHalfNum.h" // 数组中出现次数超过一半的数字
 #include "S_40_GetKLeastNumbers.h" // 最小的K个数
-#include "S_41.h"
+#include "S_41_MedianFinder.h" // 数据流中的中位数
 #include "S_42_FindGreatestSumOfSubArray.h" //连续子数组的最大和
 #include "S_42_2.h"
 #include "S_43_NumberOf1Between1AndN.h" // 整数中1出现的次数
