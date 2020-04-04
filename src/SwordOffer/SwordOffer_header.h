@@ -54,7 +54,7 @@
 #include "S_50_FirstUniqChar.h" // 第一个只出现一次的字符
 #include "S_51_ReversePairs.h" // 数组中的逆序对
 #include "S_52_GetIntersectionNode.h" // 两个链表的第一个公共节点
-#include "S_53.h"
+#include "S_53_CountNumberInOrder.h" //统计一个数字在排序数组中出现的次数。
 #include "S_54_KthNode.h" // 二叉搜索树的第k大节点
 #include "S_55_TreeDepth.h" // 二叉树的深度
 #include "S_56.h"
