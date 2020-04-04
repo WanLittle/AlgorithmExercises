@@ -51,7 +51,7 @@
 #include "S_47.h"
 #include "S_48_LengthOfLongestSubstring.h" //最长不含重复字符的子字符串
 #include "S_49_GetUglyNumber.h" // 丑数
-#include "S_50.h"
+#include "S_50_FirstUniqChar.h" // 第一个只出现一次的字符
 #include "S_51.h"
 #include "S_52.h"
 #include "S_53.h"
