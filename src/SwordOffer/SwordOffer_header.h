@@ -52,7 +52,7 @@
 #include "S_48_LengthOfLongestSubstring.h" //最长不含重复字符的子字符串
 #include "S_49_GetUglyNumber.h" // 丑数
 #include "S_50_FirstUniqChar.h" // 第一个只出现一次的字符
-#include "S_51.h"
+#include "S_51_ReversePairs.h" // 数组中的逆序对
 #include "S_52.h"
 #include "S_53.h"
 #include "S_54_KthNode.h" // 二叉搜索树的第k大节点
