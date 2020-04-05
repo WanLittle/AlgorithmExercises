@@ -58,8 +58,9 @@
 #include "S_53_MissingNumber.h" // 0～n-1中缺失的数字
 #include "S_54_KthNode.h" // 二叉搜索树的第k大节点
 #include "S_55_TreeDepth.h" // 二叉树的深度
-#include "S_56.h"
-#include "S_57.h"
+#include "S_56_FindNumsAppearOnce.h" // 一个整型数组 nums 里除两个数字之外，其他数字都出现了两次
+#include "S_56_SingleNumber.h"
+#include "S_57_TwoSumEqualS.h"
 #include "S_57_2.h"
 #include "S_58_ReverseSentence.h" // 翻转单词顺序
 #include "S_59.h"
