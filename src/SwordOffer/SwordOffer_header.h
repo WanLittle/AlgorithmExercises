@@ -61,7 +61,7 @@
 #include "S_56_FindNumsAppearOnce.h" // 一个整型数组 nums 里除两个数字之外，其他数字都出现了两次
 #include "S_56_SingleNumber.h"
 #include "S_57_TwoSumEqualS.h"
-#include "S_57_2.h"
+#include "S_57_FindContinuousSequence.h" // 连续正整数序列
 #include "S_58_ReverseSentence.h" // 翻转单词顺序
 #include "S_59.h"
 #include "S_60.h"
