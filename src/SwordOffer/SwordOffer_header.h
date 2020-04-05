@@ -30,7 +30,7 @@
 #include "S_27_MirrorBinTree.h" // 二叉树的镜像
 #include "S_28_SymmetricBinTree.h" // 对称的二叉树
 #include "S_29_SpiralOrder.h" // 顺时针打印矩阵  
-#include "S_30.h" // 包含min函数的栈
+#include "S_30_MinStack.h" // 包含min函数的栈
 #include "S_31_IsStackPopOrder.h" // 栈的压入、弹出序列
 #include "S_32.h"
 #include "S_33.h"
