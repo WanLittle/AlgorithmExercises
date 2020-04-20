@@ -14,11 +14,11 @@ public:
             val(x), next(NULL) {
         }
     };
-    ListNode* FindKthToTail(ListNode* pListHead, unsigned int k) 
+    ListNode* getKthFromEnd(ListNode* head, int k)
     {
-        ListNode *p = pListHead, *pre = pListHead;
-        if (k == 0) return nullptr;
-        if (pListHead == nullptr) return nullptr;
+        ListNode *p = head, *pre = head;
+        if (k <= 0) return nullptr;
+        if (head == nullptr) return nullptr;
         for (int i = 0; i < k - 1; i++)
         {
             if (p->next == nullptr)
