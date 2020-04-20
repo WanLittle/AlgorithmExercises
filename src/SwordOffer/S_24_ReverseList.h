@@ -2,7 +2,7 @@
 #include "../BASE.h"
 
 // 输入一个链表，反转链表后，输出新链表的表头。
-class S_24 : public BASE {
+class S_24_ReverseList : public BASE {
 public:
 	virtual void main()
 	{
@@ -14,9 +14,9 @@ public:
             val(x), next(NULL) {
         }
     };
-    ListNode* ReverseList(ListNode* pHead)
+    ListNode* reverseList(ListNode* head)
     {
-        ListNode *p = pHead, *pre = nullptr, *next = nullptr, *head = nullptr;
+        ListNode *p = head, *pre = nullptr, *next = nullptr;
         while (p != nullptr)
         {
             next = p->next;
