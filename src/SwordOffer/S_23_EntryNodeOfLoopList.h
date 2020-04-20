@@ -14,6 +14,7 @@ public:
             val(x), next(NULL) {
         }
     };
+    // 快慢指针，在链表存在环的条件下，找到相遇的节点
     ListNode* MeetingNode(ListNode* pHead)
     {
         if (pHead == nullptr)
