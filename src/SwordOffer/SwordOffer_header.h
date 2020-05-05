@@ -2,9 +2,10 @@
 
 #include "S_1.h"
 #include "S_2.h"
-#include "S_3.h"
-#include "S_4.h"
-#include "S_5.h"
+#include "S_3_FindRepeatNumber.h" // 数组中重复的数字1
+#include "S_3_FindRepeatNumber2.h" // 数组中重复的数字2
+#include "S_4_FindNumberIn2DArray.h" // 二维数组中的查找
+#include "S_5_ReplaceSpace.h" // 替换空格
 #include "S_6_RevesePrintList.h" // 从尾到头打印链表
 #include "S_7_ReconBinaryTree.h" // 根据前序中序重建二叉树
 #include "S_8.h"
@@ -45,10 +46,10 @@
 #include "S_42_FindGreatestSumOfSubArray.h" //连续子数组的最大和
 #include "S_42_2.h"
 #include "S_43_NumberOf1Between1AndN.h" // 整数中1出现的次数
-#include "S_44.h"
+#include "S_44_FindNthDigit.h" // 数字序列中某一位的数字
 #include "S_45.h"
 #include "S_46.h"
-#include "S_47.h"
+#include "S_47_MaxValue.h" // 礼物的最大价值
 #include "S_48_LengthOfLongestSubstring.h" //最长不含重复字符的子字符串
 #include "S_49_GetUglyNumber.h" // 丑数
 #include "S_50_FirstUniqChar.h" // 第一个只出现一次的字符
@@ -64,12 +65,13 @@
 #include "S_57_FindContinuousSequence.h" // 连续正整数序列
 #include "S_58_ReverseSentence.h" // 翻转单词顺序
 #include "S_59.h"
-#include "S_60.h"
-#include "S_61.h"
-#include "S_62_.h"
-#include "S_63_.h"
-#include "S_64_Sum.h"
-#include "S_65_.h"
-#include "S_66_.h"
-#include "S_67_.h"
-#include "S_68_.h"
+#include "S_60_NDices.h" // n个骰子的点数
+#include "S_61_IsStraight.h" // 扑克牌中的顺子
+#include "S_62_LastRemaining.h" // 圆圈中最后剩下的数字
+#include "S_63_MaxProfit.h" // 股票的最大利润
+#include "S_64_SumNums.h" // 求1+2+3+...+n
+#include "S_65_Add.h" // 不用加减乘除做加法
+#include "S_66_ConstructArr.h" // 构建乘积数组
+#include "S_67_StrToInt.h" // 把字符串转换成整数
+#include "S_68_LowestCommonAncestor.h" // 二叉搜索树最近公共祖先
+#include "S_69_BottomCommonAncestor.h" // 二叉树最近公共祖先
