@@ -15,7 +15,7 @@ public:
     {
         vector<int> dp(n + 1, 0);
         dp[1] = 1;
-        for (int n_p = 4; n_p <= n; ++n_p) 
+        for (int n_p = 2; n_p <= n; ++n_p) 
         {
             for (int i = 1; i <= n_p - 1; ++i) 
             {
