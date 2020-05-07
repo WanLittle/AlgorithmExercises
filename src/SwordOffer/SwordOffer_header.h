@@ -15,7 +15,7 @@
 #include "S_11_MinArray.h" // 旋转数组的最小数字
 #include "S_12_Exist.h" // 矩阵中的路径
 #include "S_13_MovingCount.h" // 机器人的运动范围
-#include "S_14.h"
+#include "S_14_CuttingRope.h" // 剪绳子
 #include "S_15_CountBitOne.h" //二进制中1的个数
 #include "S_16_MyPow.h"
 #include "S_18_DeleteListNode.h" // 删除链表的节点
