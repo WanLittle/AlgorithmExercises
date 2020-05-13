@@ -2,6 +2,8 @@
 #include <assert.h>
 
 #include <iostream>
+#include <sstream>
+
 #include <cmath>
 #include <algorithm>
 
