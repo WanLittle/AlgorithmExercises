@@ -2,7 +2,7 @@
 #include "../../BASE.h"
 
 
-class LH_739dailyTemperatures : public BASE {
+class L_739dailyTemperatures : public BASE {
 public:
 	virtual void main()
 	{
@@ -10,10 +10,8 @@ public:
     vector<int> dailyTemperatures(vector<int>& T) {
         vector<int> result(T.size(), 0);
         stack<int> monostack;
-        for (int i = 0; i < T.size(); ++i)
-        {
-            while (!monostack.empty() && T[monostack.top()] < T[i])
-            {
+        for (int i = 0; i < T.size(); ++i) {
+            while (!monostack.empty() && T[monostack.top()] < T[i]) {
                 result[monostack.top()] = i;
                 monostack.pop();
             }
