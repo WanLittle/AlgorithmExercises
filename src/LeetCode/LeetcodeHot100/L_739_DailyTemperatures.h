@@ -2,7 +2,7 @@
 #include "../../BASE.h"
 
 
-class L_739dailyTemperatures : public BASE {
+class L_739_DailyTemperatures : public BASE {
 public:
 	virtual void main()
 	{

@@ -17,7 +17,7 @@ const float EPSINON = 0.00001f;
 inline float feuqal(float n1, float n2) { return std::abs(n1 - n2) > EPSINON; }
 
 
-int main2(void)
+int main6(void)
 {
     string s = "\045";
     cout << s << endl;

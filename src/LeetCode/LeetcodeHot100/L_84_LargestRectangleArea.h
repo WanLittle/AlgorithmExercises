@@ -2,7 +2,7 @@
 #include "../../BASE.h"
 
 
-class L_84largestRectangleArea : public BASE {
+class L_84_LargestRectangleArea : public BASE {
 public:
 	virtual void main()
 	{
